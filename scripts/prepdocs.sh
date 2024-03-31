@@ -83,3 +83,5 @@ $tenantArg $aclArg \
 $disableVectorsArg $localPdfParserArg $localHtmlParserArg \
 $keyVaultName \
 $integratedVectorizationArg
+
+
